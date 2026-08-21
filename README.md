@@ -1,4 +1,4 @@
 # dbms
 
-### Assignment 1
-####Rimjhim Khan
+## Assignment 1
+### Rimjhim Khan
